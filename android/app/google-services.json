@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "724451456512",
+    "project_id": "travel-a6a41",
+    "storage_bucket": "travel-a6a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724451456512:android:c3da6f4e69c7468ac04ae5",
+        "android_client_info": {
+          "package_name": "com.example.course_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724451456512-3nuu58t0bsmism9p2r4469cae48e0fcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9bPsjP61VQr6Dk-CiaA6GWTDXwoSbq20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724451456512-3nuu58t0bsmism9p2r4469cae48e0fcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724451456512:android:7f9c27200390eebec04ae5",
+        "android_client_info": {
+          "package_name": "com.job777.travelx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724451456512-3nuu58t0bsmism9p2r4469cae48e0fcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9bPsjP61VQr6Dk-CiaA6GWTDXwoSbq20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724451456512-3nuu58t0bsmism9p2r4469cae48e0fcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
